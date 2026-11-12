@@ -35,3 +35,5 @@ Having established a foundation in causal inference, probabilistic modeling, and
 I am currently working toward developing and implementing machine learning and causal models to investigate relationships between clinical variables and disease progression.
 
 ## Data Confidentiality
+
+Due to the confidential nature of the medical research, patient datasets and restricted research materials are not publicly available.
