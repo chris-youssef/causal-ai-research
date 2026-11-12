@@ -1,12 +1,12 @@
 # Causal AI Research
 
-**Undergraduate Research | Causal Inference | Machine Learning | Python | PyTorch | Pyro**
+Undergraduate Research | Causal Inference | Machine Learning | Python | PyTorch | Pyro
 
 ## Overview
 
-This repository documents my ongoing undergraduate research and exploration of **Causal Artificial Intelligence (Causal AI)** at the University of Miami.
+This repository documents my ongoing undergraduate research and exploration of Causal Artificial Intelligence (Causal AI) at the University of Miami.
 
-My research focuses on investigating the applications of **causal inference and machine learning to Parkinson's disease progression**, with an emphasis on understanding causal relationships between variables rather than relying solely on statistical correlations.
+My research focuses on investigating the applications of causal inference and machine learning to Parkinson's disease progression, with an emphasis on understanding causal relationships between variables rather than relying solely on statistical correlations.
 
 The broader objective is to explore how causal modeling techniques can contribute to understanding complex medical conditions and support data-driven biomedical research.
 
@@ -35,5 +35,3 @@ Having established a foundation in causal inference, probabilistic modeling, and
 I am currently working toward developing and implementing machine learning and causal models to investigate relationships between clinical variables and disease progression.
 
 ## Data Confidentiality
-
-Due to the confidential nature of the medical research, patient datasets and restricted research materials are not publicly available.
